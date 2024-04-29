@@ -2,7 +2,7 @@
 
 Welcome to the Library Management System repository! Manage your library's resources with ease using this Java-based application. From adding new books to tracking borrowed items, this system simplifies library operations.
 
-## Features
+## 💡 Features
 
 - **Database Design**: Designed with efficiency in mind, the database schema organizes information about books, users, and transactions.
 - **User-Friendly Interface**: A simple and intuitive user interface allows seamless interaction with the system.
@@ -18,23 +18,23 @@ Welcome to the Library Management System repository! Manage your library's resou
 - [Functionality](#functionality)
 - [Error Handling](#error-handling)
 
-## Database Design
+## 🛢 Database Design
 
 Efficiently store and manage information about books, users, and transactions with a carefully crafted database schema.
 
-## User Interface
+## 👤 User Interface
 
 Interact seamlessly with the Library Management System through a user-friendly interface. Perform tasks such as adding, searching, borrowing, and returning books effortlessly.
 
-## JDBC Connectivity
+## 🔗 JDBC Connectivity
 
 Utilize JDBC connectivity to establish a robust connection between the Java application and the database. This ensures efficient data retrieval and manipulation.
 
-## Functionality
+## ⚡ Functionality
 
 Experience comprehensive functionality with the ability to perform various tasks including adding books, searching for books by keyword, borrowing books, returning books, and displaying the list of borrowed books.
 
-## Error Handling
+## ⚠️ Error Handling
 
 Benefit from robust error handling mechanisms that gracefully manage exceptions during database operations. Ensure smooth system operation under all circumstances.
 
